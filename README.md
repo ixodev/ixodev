@@ -3,7 +3,7 @@ begin()
 - 👀 I’m interested in writing Java/Python/C++/Node.js or Kotlin apps.
 - ✍️ My favourite IDEs are IntelliJIDEA, VS Code, and CLion.
 - 📧 My e-mail : pythoneagle@gmx.net.
-- 🪙 I am not searching to code for money.
+- 🪙 I am not searching to code for money 😄.
 
 end()
 <!---
