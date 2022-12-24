@@ -2,11 +2,11 @@ begin()
 
 This is my special ✨ repository.
 - 👋 Hi, I’m Curtis Newton, alias Younès B.
-- 👀 I’m interested in writing Java/Python/C++/Node.js or Kotlin apps.
+- 👀 I’m interested in writing Java/Python/C++/C or Node.js apps.
 - ✍️ I usually write code in Python 🐍, and in Java ☕.
-- ✍️ My favourite IDEs are IntelliJIDEA, VS Code, and CLion.
+- ✍️ My favourite IDEs are IntelliJIDEA, VS Code, PyCharm, and Code::Blocks.
 - 📧 My e-mail : pythoneagle@gmx.net.
-- 🪙 I am not searching to code for money 😄.
+- 🪙 I am not searching to code for money 😄. All my products are free and open-source.
 
 end()
 <!--
