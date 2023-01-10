@@ -1,7 +1,7 @@
 begin()
 
 This is my special ✨ repository.
-- 👋 Hi, I’m Curtis Newton, alias Younès B.
+- 👋 Hi, I’m Curtis Newton, alias Curtis Newton.
 - 👀 I’m interested in writing Java/Python/C++/C or Node.js apps.
 - ✍️ I usually write code in Python 🐍, and in Java ☕.
 - ✍️ My favourite IDEs are IntelliJIDEA, VS Code, PyCharm, and Code::Blocks.
