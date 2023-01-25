@@ -6,7 +6,6 @@ This is my special ✨ repository.
 - ✍️ I usually write code in Python 🐍, and in Java ☕.
 - ✍️ My favourite IDEs are IntelliJIDEA, VS Code, PyCharm, and Code::Blocks.
 - 📧 My e-mail : pythoneagle@gmx.net.
-- 🪙 I am not searching to code for money 😄. All my products are free and open-source.
 
 end()
 <!--
