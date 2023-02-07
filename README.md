@@ -6,7 +6,7 @@ This is my special ✨ repository.
 - ✍️ I usually write code in Python 🐍, and in Java ☕.
 - ✍️ My favourite IDEs are IntelliJIDEA, VS Code, PyCharm, and Code::Blocks.
 - 📧 My e-mail : pythoneagle@gmx.net.
-- <a target="_blank" href="https://icons8.com/icon/Q2nlpUzM170H/zombie">Zombie</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+- 🧟 <a target="_blank" href="https://icons8.com/icon/Q2nlpUzM170H/zombie">Zombie</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 end()
 <!--
