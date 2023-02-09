@@ -1,7 +1,7 @@
 begin()
 
 This is my special ✨ repository.
-- 👋 Hi, I’m Grey Wolf, alias Curtis Newton.
+- 👋 Hi, I’m ixodev.
 - 👀 I’m interested in writing Java/Python/C++/C or Node.js apps.
 - ✍️ I usually write code in Python 🐍, and in Java ☕.
 - ✍️ My favourite IDEs are IntelliJIDEA, VS Code, PyCharm, and Code::Blocks.
