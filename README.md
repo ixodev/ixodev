@@ -7,9 +7,10 @@ This is my special ✨ repository.
 - ✍️ My favourite IDEs are IntelliJIDEA, VS Code, PyCharm, and Code::Blocks.
 - 📧 My e-mail : pythoneagle@gmx.net.
 - <a target="_blank" href="https://icons8.com/icon/19293/code">Code</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
 end()
 <!--
-CaptainFuture-CN/CaptainFuture-CN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ixodev/ixodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
 
