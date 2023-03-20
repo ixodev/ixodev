@@ -7,7 +7,7 @@
 - 🫀 I like to code, read books, study mathematics, play the guitar, and cycle.
   I also like to sleep, eat, swim, and watch documentaries about history, science, etc.
 - My favourite musics are : <a href="https://www.youtube.com/watch?v=QmhagVGxWiA&ab_channel=SOUNDTRACKBRASIL"><i>Beverly Hills Cop Soundtrack</i></a>,
-  <a href="https://www.youtube.com/watch?v=wFOEubKzyQA&ab_channel=TranceParadise"><i>Crockett´s Theme</i></a>, and <a href="https://www.youtube.com/watch?v=jhdFe3evXpk&ab_channel=DireStraitsVEVO"><i>Brothers in arms</i></a>
+  <a href="https://www.youtube.com/watch?v=wFOEubKzyQA&ab_channel=TranceParadise"><i>Crockett´s Theme</i></a>, and <a href="https://www.youtube.com/watch?v=jhdFe3evXpk&ab_channel=DireStraitsVEVO"><i>Brothers in arms</i></a>.
 - 👀 I’m interested in writing Java/Python/C++/C or Node.js apps.
 - ✍️ I usually write code in C/C++, and in Java ☕.
 - ✍️ My favourite IDEs are IntelliJIDEA, VS Code, and Microsoft Visual C++.
