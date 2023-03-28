@@ -12,7 +12,7 @@
   - play the guitar
   - cycle.
   
-  I also like to sleep, eat, swim, and watch documentaries about history, science, etc.
+  I also like to sleep, play ping-pong, eat, swim, and watch documentaries about history, science, etc.
   
 - My favourite musics are :
   - <a href="https://www.youtube.com/watch?v=QmhagVGxWiA&ab_channel=SOUNDTRACKBRASIL"><i>Beverly Hills Cop Soundtrack</i></a>
