@@ -28,7 +28,8 @@
 
 - ✍️ My favourite IDEs are:
   - IntelliJIDEA
-  - PyCharm VS Code
+  - PyCharm
+  - VS Code
   - Microsoft Visual C++.
 
 - 📧 My e-mail: ixodev8@gmail.com
