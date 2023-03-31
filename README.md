@@ -19,7 +19,7 @@
   - <a href="https://www.youtube.com/watch?v=wFOEubKzyQA&ab_channel=TranceParadise"><i>Crockett´s Theme</i></a>
   - <a href="https://www.youtube.com/watch?v=jhdFe3evXpk&ab_channel=DireStraitsVEVO"><i>Brothers in arms</i></a>.
 
-- 👀 I’m interested in writing Java/Python/C++/C or Node.js apps.
+- 👀 I’m interested in writing C/C++, Java or Python apps.
 
 - ✍️ I usually write code in:
   - C/C++
@@ -30,7 +30,7 @@
   - IntelliJIDEA
   - PyCharm
   - VS Code
-  - Microsoft Visual C++.
+  - Microsoft Visual Studio 2022.
 
 - 📧 My e-mail: ixodev8@gmail.com
 
