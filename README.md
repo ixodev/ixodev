@@ -24,8 +24,7 @@
 - ✍️ I usually write code in:
   - C/C++
   - Java ☕
-  - Python
-  - JavaScript on Node.js
+  - Python 🐍
 
 - ✍️ My favourite IDEs are:
   - IntelliJIDEA
