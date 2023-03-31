@@ -6,7 +6,7 @@
 
 - 👋 Hi, I am Ixodev, president of the Virtual Republic of Code, and C/C++/Java/Python developer.
 
-- 🫀 I like to:
+- I like to:
   - code, read books
   - study mathematics
   - play the guitar
