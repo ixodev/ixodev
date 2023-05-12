@@ -32,8 +32,6 @@
   - VS Code
   - Microsoft Visual Studio 2022.
 
-- 📧 My e-mail: ixodev8@gmail.com
-
 - Alien icon by GitHub
 
 ### end();
