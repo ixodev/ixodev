@@ -4,7 +4,7 @@
 
 #### This is my special ✨ repository.
 
-- 👋 Hi, I am Ixodev, president of the Virtual Republic of Code, owner of Retro 2D Games and Retro 3D Games, co-founder of Paintr, and C/C++/Java/Python developer.
+- 👋 Hi, I am IxoDev, president of the Virtual Republic of Code, owner of Retro 2D Games and Retro 3D Games, co-founder of Paintr, and C/C++/Java/Python developer.
 
 - I like to:
   - code, read books
