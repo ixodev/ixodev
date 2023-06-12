@@ -4,7 +4,7 @@
 
 #### This is my special ✨ repository.
 
-- 👋 Hi, I am IxoDev, owner of Retro 2D Games, co-founder of Paintr, and C/C++/Java/Python developer.
+- 👋 Hi, I am IxoDev, owner of Retro 2D Games, co-founder of <a href="https://paintr-ai.github.io/">Paintr</a>, and C/C++/Java/Python developer.
 
 - Avatar created by me with <a href="https://www.blockbench.net/">Blockbench</a>.
 
