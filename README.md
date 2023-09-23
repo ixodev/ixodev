@@ -1,6 +1,6 @@
 # IxoDev
 
-### begin();
+### start();
 
 #### This is my special ✨ repository.
 
