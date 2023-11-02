@@ -7,7 +7,7 @@
 - 👋 Hi, I am IxoDev, owner of <a href="https://www.github.com/revoxel">Revoxel Studios</a>, developer of the C/C++ Music Shader Compiler, co-founder of <a href="https://paintr-ai.github.io/">Paintr</a>, and     
   C/C++/Java/Python developer.
 - I am German and French, and like to code with some classic or electronic music.
-- IntellijIDEA is the best IDE!
+- Currently working on a videogame named "Art Of War" in C with SDL2... (coming soon)
 
 ### end();
 <!--
