@@ -11,3 +11,4 @@ I like Arduino, Raspberry Pi, Nvidia Jetson...<br/>
 Conceptor of the I++ programming language (designed for the "Art Of War" videogame)<br />
 Like to play the guitar, do stunts with the mountainbike, windsurfing, sailing, ping-pong and calisthenics, read books, fan of the Red Hot Chili Peppers<br />
 I am a high school student...<br/>
+I also participated to the Schueler.in.TUM program, a program for high school students at the TUM (Technische Universität München)<br/>
