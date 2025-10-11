@@ -1,4 +1,8 @@
 # ixodev
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixodev&layout=compact)
+
+
 Known languages: French, German, English<br />
 Known programming languages: C, C++, Python, Java, C#, HTML (even if it's not considered as a programming language :) ), a bit of JS/TS, etc...<br />
 I'm interested in graphics programming, osdev and AI<br />
