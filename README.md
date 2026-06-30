@@ -1,8 +1,6 @@
 # ixodev
 [Download my resume (German)](ResumeTUM.pdf)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixodev&layout=normal)
-
 Hello, I am Younes Bendimerad (aka ixodev), a 16 year-old high school student at the french school in Munich. I am currently preparing myself to graduate this year from high school with the french baccalaureate and with the German Abitur. I love math and physics, and started coding at 10. I participated to the 'Concours Général' in mathematics, physics & chemistry, and german. The 'Concours Général' is a worldwide competition reserved to excellent students in the french school system.<br />
 Schülerstipendiat at CHECK24 (2025), see <a href="www.github.com/calimiro-ai">Calimiro AI</a><br />
 TUM early student at the age of 14<br />
