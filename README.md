@@ -1,4 +1,7 @@
 ### Younes Bendimerad
+Mathematics & CS student at Technical University of Munich, TUM. 17 years old.
+[Download my resumé](Resume_YounesBendimerad.pdf)
+
 Munich, Germany | younes.bendimerad@tum.de
 
 #### ACADEMIC EDUCATION
