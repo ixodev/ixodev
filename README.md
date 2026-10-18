@@ -11,7 +11,7 @@ Technical University of Munich (TUM) — Munich, Germany
 French High School in Munich (Lycée Jean Renoir) — Munich, Germany  
 •	Grade 12 (2025/26): German Abitur passed with a grade of 1.0 (highest achievable grade)  
 Awarded French Diplôme du Baccalauréat with 'Mention Très Bien avec les Félicitations du Jury' (highest honors of the French Baccalauréat), with majors Mathematics, Physics and Chemistry  
-6th place worldwide in German at the Concours Général (competition for top-level students), selected by faculty in Mathematics, Physics, Chemistry, and German.  
+3rd place worldwide in German at the Concours Général (competition for top-level students), selected by faculty in Mathematics, Physics, Chemistry, and German.  
 #### EXTRACURRICULAR EDUCATION & PROJECTS
 •	Math, Science & Literature Enrichment (Lyzeum 2, TUM, LMU):  
 TUM Mathematics Course for high school students, by Prof. Carsten Lange (2022, 2023)  
